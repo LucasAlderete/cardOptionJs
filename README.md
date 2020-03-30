@@ -1,5 +1,5 @@
 # cardOptionJs
-
+`
 createCards = function () {
   var valueIIBB = $("#IdCondicionIngresosBrutos").val();
 
@@ -29,3 +29,4 @@ createCards = function () {
   //});
 
 }
+`
